@@ -1,4 +1,4 @@
-import {Proskomma} from 'proskomma-core'
+import {Proskomma} from 'proskomma-cross'
 
 export const usfm2perf = (usfm) => {
     let perf;
