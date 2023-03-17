@@ -1,6 +1,8 @@
 import './App.css';
-import { usfmText } from './data/Acts.1.short.usfm.js';
+// import { usfmText } from './data/Acts.1.short.usfm.js';
+import { usfmText } from './data/08-RUT.short.usfm.js';
 import { usfm2perf } from './helpers/usfm2perf';
+
 
 function App() {
   console.log(usfmText)

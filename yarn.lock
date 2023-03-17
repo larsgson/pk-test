@@ -9676,7 +9676,7 @@ __metadata:
     "@testing-library/user-event": ^13.5.0
     crypto: ^1.0.1
     fs: ^0.0.1-security
-    proskomma-cross: ^0.0.1-beta.3
+    proskomma-cross: ^0.0.1-beta.4
     react: ^18.2.0
     react-dom: ^18.2.0
     react-scripts: 5.0.1
@@ -10662,9 +10662,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"proskomma-cross@npm:^0.0.1-beta.3":
-  version: 0.0.1-beta.3
-  resolution: "proskomma-cross@npm:0.0.1-beta.3"
+"proskomma-cross@npm:^0.0.1-beta.4":
+  version: 0.0.1-beta.4
+  resolution: "proskomma-cross@npm:0.0.1-beta.4"
   dependencies:
     "@babel/preset-env": ^7.20.2
     "@graphql-tools/schema": ^9.0.3
@@ -10686,7 +10686,7 @@ __metadata:
     utf8-string-bytes: ^1.0.3
     util: ^0.12.4
     xregexp: ^5.1.1
-  checksum: e60ee28f3bb9035ee0817d62f0dfceb3b107b52c9d025264e1bdf9310df0c65ca7e10e4db758d799d08dfbf6586c8ba5823f15abf557b74c6d09dda7786bda08
+  checksum: c239325bcec0ad5d8774672861f30ab8aaa8937e05b9ec9982aef85677e11c86c4d94d3a86b3467ce6929f5a45be1c4998c803d36093e9db026c65f9dd28f47f
   languageName: node
   linkType: hard
 

@@ -7,7 +7,7 @@ export const usfm2perf = (usfm) => {
         console.log(pk)
         pk.importDocuments(
             {lang: 'xxx', abbr: 'XXX'}, // doesn't matter...
-            ['usfm'], 
+            'usfm', 
             usfm
         )
         console.log(pk)
